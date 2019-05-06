@@ -51,18 +51,22 @@ Which algorithms are best for this dataset
 
 
 
+
 Algorithms -
  Linear Discriminant Analysis • Logistic Regression • K Nearest Neigbor • Decision Tree • Support Vector Machine • Naive Bayes • K-Means • Neural Network • XgBoost
+ 
 Results
-Name of Algorithm	Accuracy
-Logistic Regression	69%
-LDA	84%
-KNN	84%
-Decision Tree	85%
-SVM	84%
-Naïve Bayes	41%
-Neural Networks	84%
-K-Means	67%
-XgBoost	86%
+
+Name of Algorithm	    Accuracy
+Logistic Regression	  69%
+LDA	                  84%
+KNN	                  84%
+Decision Tree	        85%
+SVM	                  84%
+Naïve Bayes	          41%
+Neural Networks	      84%
+K-Means	              67%
+XgBoost	              86%
+
 
 XgBoost gave us the best accuracy.
